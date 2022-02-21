@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SecureProtel</string>
+    <string name="secure_parking">Secure Parking</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="nama_pengguna">User Name </string>
+    <string name="plat_nomor">Number Plate</string>
+    <string name="foto_wajah">Upload Face Photos</string>
+    <string name="stnk">Upload STNK Vehicle</string>
+    <string name="vehicle">Vehicle</string>
+    <string name="add_face_photos">Add face photos</string>
+    <string name="full_name">FULL Name</string>
+    <string name="face_photos">FACE PHOTOS</string>
+    <string name="SubmitFoto">Submit</string>
+    <string name="Username"> Username </string>
+</resources>
